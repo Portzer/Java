@@ -1,6 +1,9 @@
 public class Car}{
 private String name;
+
 private String Brand;
-private String Brand;
+
+private String color;
+
 
 }
