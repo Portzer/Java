@@ -1,0 +1,5 @@
+public Class User{
+String name;
+String Sex;
+String UserId;
+}
